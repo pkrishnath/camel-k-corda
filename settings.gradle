@@ -1,0 +1,11 @@
+
+include 'workflows'
+include 'contracts'
+include 'camel-k-clients'
+
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'camel-corda'
