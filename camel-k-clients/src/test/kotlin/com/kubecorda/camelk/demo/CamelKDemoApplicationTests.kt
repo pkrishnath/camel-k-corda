@@ -1,4 +1,4 @@
-package com.tradeix.camelk.demo
+package com.kubecorda.camelk.demo
 
 import org.junit.Test
 import org.junit.runner.RunWith

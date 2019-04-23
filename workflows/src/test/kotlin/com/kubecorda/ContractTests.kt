@@ -1,4 +1,4 @@
-package com.tradeix
+package com.kubecorda
 
 import net.corda.testing.node.MockServices
 import org.junit.Test

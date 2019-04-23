@@ -1,4 +1,4 @@
-package com.tradeix
+package com.kubecorda
 
 import com.template.flows.Responder
 import net.corda.testing.node.MockNetwork
@@ -10,8 +10,8 @@ import org.junit.Test
 
 class FlowTests {
     private val network = MockNetwork(MockNetworkParameters(cordappsForAllNodes = listOf(
-        TestCordapp.findCordapp("com.tradeix.contracts"),
-        TestCordapp.findCordapp("com.tradeix.flows")
+        TestCordapp.findCordapp("com.kubecorda.contracts"),
+        TestCordapp.findCordapp("com.kubecorda.flows")
     )))
     private val a = network.createNode()
     private val b = network.createNode()

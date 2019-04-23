@@ -1,4 +1,4 @@
-package com.tradeix.camelk.demo
+package com.kubecorda.camelk.demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

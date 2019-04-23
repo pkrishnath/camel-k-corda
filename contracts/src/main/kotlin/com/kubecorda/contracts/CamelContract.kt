@@ -1,4 +1,4 @@
-package com.tradeix.contracts
+package com.kubecorda.contracts
 
 import net.corda.core.contracts.CommandData
 import net.corda.core.contracts.Contract
